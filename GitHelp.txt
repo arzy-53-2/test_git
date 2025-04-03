@@ -15,11 +15,10 @@ git remote add origin link_to_your_repository
 git status   | Показывает статус проекта
 git add .    | Добавляет все изменения в проект | список .git
 git add path/file | Добавляет изменения в файл
-git add dict_name | Добавляет изменения в словарь
-git file_name | Добавляет изменения в файл
-git commit -m "Your commit message"
-git push origin master/main
-git branch    | Показывает текущую ветку
+git add dict_name | Добавляет изменения в слоdqwdxqwx
+qewcewavarevweVC 
+wervarevaewVCAERV
+wevaDVC
 git checkout branch_name   | Переключается на ветку
 git switch branch_name | Переключается на ветку
 git checkout -b branch_name | Создает новую ветку и Переключается
@@ -29,3 +28,7 @@ git merge branch_name | Объединяет ветки
 
 
 
+CwdsaecvaewdVCAdc
+EVCacewdeV
+dvcDVCevDV
+sdvcadsVsdv
