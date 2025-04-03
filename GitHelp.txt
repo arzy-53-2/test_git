@@ -1,6 +1,6 @@
 Это команды один раз на одно устройство 
-Команды для регистрации ваших данных
-git config --global user.name "Your name"
+Команfghjkmwl;,gfv'erf
+ferggvrtbgrteser.name "Your name"
 git config --global user.email "your-email@example.com"
 
 
@@ -14,7 +14,6 @@ git remote add origin link_to_your_repository
 git status   | Показывает статус проекта
 git add .    | Добавляет все изменения в проект | список .git
 git add path/file | Добавляет изменения в файл
-git add dict_name | Добавляет изменения в словарь
-git file_name | Добавляет изменения в файл
 
-git merge branch_name | Объединяет изменения
+dfghjkl;'
+dfghjkl;
