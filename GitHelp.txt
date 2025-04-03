@@ -1,4 +1,8 @@
-Это команды один раз на одно устройство 
+Это команды один раз на одно устройство сауцСцУмсУЦ
+сф
+цумс
+цуаСМ
+
 Команды для регистрации ваших данных
 git config --global user.name "Your name"
 git config --global user.email "your-email@example.com"
@@ -11,17 +15,28 @@ git remote add origin link_to_your_repository
 
 
 
-Основные команды для работа с Git
+Основные команды для рабоасуЫЦВСУЦС
+meАСУЦасуцАssage
+УЦсС
+уцас
+цу
+meАСУЦасуцАssageцу
+meАСУЦасуцАssageуА
+Уца с Git
 git status   | Показывает статус проекта
 git add .    | Добавляет все изменения в проект | список .git
 git add path/file | Добавляет изменения в файл
-git add dict_name | Добавляет изменения в словарь
+git add dict_name | Добавляет павыфцывкенапгрлотирмпавпкизменения в словарь
 git file_name | Добавляет изменения в файл
-git commit -m "Your commit message"
+git commit -m "Your commit meАСУЦасуцАssage"
 git push origin master/main
 git branch    | Показывает текущую ветку
 git checkout branch_name   | Переключается на ветку
-git switch branch_name | Переключается на ветку
+git switch branch_name | Переключается на веткувсцуАСАУЦфас
+цуаС
+УЦс
+УЦсС
+цус
 git checkout -b branch_name | Создает новую ветку и Переключается
 
 
